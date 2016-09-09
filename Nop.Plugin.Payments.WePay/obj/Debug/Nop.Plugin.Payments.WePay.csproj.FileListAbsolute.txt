@@ -1,0 +1,11 @@
+E:\ODESK\KAREN\TFS\Nop350\NopCommerce\Presentation\Nop.Web\Plugins\Payments.WePay\Description.txt
+E:\ODESK\KAREN\TFS\Nop350\NopCommerce\Presentation\Nop.Web\Plugins\Payments.WePay\web.config
+E:\ODESK\KAREN\TFS\Nop350\NopCommerce\Presentation\Nop.Web\Plugins\Payments.WePay\Views\PaymentWePay\Configure.cshtml
+E:\ODESK\KAREN\TFS\Nop350\NopCommerce\Presentation\Nop.Web\Plugins\Payments.WePay\Views\PaymentWePay\PaymentInfo.cshtml
+E:\ODESK\KAREN\TFS\Nop350\NopCommerce\Presentation\Nop.Web\Plugins\Payments.WePay\logo.jpg
+E:\ODESK\KAREN\TFS\Nop350\NopCommerce\Presentation\Nop.Web\Plugins\Payments.WePay\Nop.Plugin.Payments.WePay.dll.config
+E:\ODESK\KAREN\TFS\Nop350\NopCommerce\Presentation\Nop.Web\Plugins\Payments.WePay\Nop.Plugin.Payments.WePay.dll
+E:\ODESK\KAREN\TFS\Nop350\NopCommerce\Presentation\Nop.Web\Plugins\Payments.WePay\Nop.Plugin.Payments.WePay.pdb
+E:\ODESK\KAREN\TFS\Nop350\NopCommerce\Plugins\Nop.Plugin.Payments.WePay\obj\Debug\Nop.Plugin.Payments.WePay.csprojResolveAssemblyReference.cache
+E:\ODESK\KAREN\TFS\Nop350\NopCommerce\Plugins\Nop.Plugin.Payments.WePay\obj\Debug\Nop.Plugin.Payments.WePay.dll
+E:\ODESK\KAREN\TFS\Nop350\NopCommerce\Plugins\Nop.Plugin.Payments.WePay\obj\Debug\Nop.Plugin.Payments.WePay.pdb
